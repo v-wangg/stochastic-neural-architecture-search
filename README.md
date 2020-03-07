@@ -1,6 +1,6 @@
 # Stochastic Neural Architecture Search (SNAS) (Liu et al., 2019)
 
-An unofficial Pytorch implementation of [Stochastic Neural Architecture Search (liu et al., 2019](https://arxiv.org/abs/1812.09926) based off of [Astrodyn94's implementation](https://github.com/Astrodyn94/SNAS-Stochastic-Neural-Architecture-Search-). This was developed to make the SNAS code easier to pick up and work with and because I couldn't find a way to contribute to the original repo.
+An unofficial Pytorch implementation of [Stochastic Neural Architecture Search (Liu et al., 2019)](https://arxiv.org/abs/1812.09926) based off of [Astrodyn94's implementation](https://github.com/Astrodyn94/SNAS-Stochastic-Neural-Architecture-Search-). This was developed to make the SNAS code easier to pick up and work with.
 
 ## Dataset
 This implementation was created on a specific subset of the  [xView dataset](http://xviewdataset.org/), which is included in the repository, but is easily compatible with any other image dataset by changing the dataloader.
