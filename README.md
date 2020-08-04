@@ -5,6 +5,8 @@ An unofficial Pytorch implementation of [Stochastic Neural Architecture Search (
 ## Dataset
 This implementation was created on a specific subset of the  [xView dataset](http://xviewdataset.org/), which is included in the repository, but is easily compatible with any other image dataset by changing the dataloader.
 
+The dataset contains satellite images of land vehicles and the SNAS network was trained to classify these vehicles into a subset of the xView classes.
+
 ## Training
 To begin training with `python >= 3.6.5`,
 
